@@ -18,11 +18,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or a screen recording here later!
-
----
 
 ## 🛠 Built With
 
